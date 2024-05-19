@@ -1,3 +1,6 @@
+![Nostradamus Live](https://github.com/TheStoneMX/Voice2LocalDocsLLMs/blob/ee069749c89d357d7a9276b8aefbb4c5c319b7fb/NostradamusRAG.webp)
+
+
 # Voice2LocalDocsLLMs
 Create a RAG To Chat with local documents Voice 2 Voice. featuring a conversational AI character inspired by Nostradamus.
 

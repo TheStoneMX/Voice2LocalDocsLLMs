@@ -1,5 +1,5 @@
 # Voice2LocalDocsLLMs
-Create a RAG To Chat with local documents Voice 2 Voice.
+Create a RAG To Chat with local documents Voice 2 Voice. featuring a conversational AI character inspired by Nostradamus.
 
 Retrieval-Augmented Generation. This approach combines traditional information retrieval techniques with generative language models to enhance the quality and relevance of the generated text. 
 
